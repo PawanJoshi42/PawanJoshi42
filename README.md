@@ -1,16 +1,69 @@
-## Hi there 👋
 
-<!--
-**PawanJoshi42/PawanJoshi42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://www.facebook.com/dipeshsiwakoti112"><img width="100%" height="auto" src="" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pawanraj Joshi.</h1>
+<h3 align="center">I ❤ Coding.</h3>
+<h3 align="center">As a tech enthusiast from Kathmandu,Nepal.</h3>
+<h3 align="center">I am deeply interested in Data Science and Web Development.</h3>
+
+
+## 🙋‍♂️ About Me
+
+- 📖 I’m currently studying **Bachelor's Hons of Information Technology**
+
+- 🌱 I’m currently learning **Python** and **Django**.
+
+- 📫 How to reach me **pawanratala42@gmail.com**
+
+<!-- - ⚡ Fun fact **I play games very often.** -->
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a> <img src="https://img.icons8.com/?size=48&id=74402&format=png"></a>
+    <a style="background-color:#ffffff"><img src="https://img.icons8.com/color/48/000000/express-js.png"></a>    
+    <a> <img src="https://img.icons8.com/?size=48&id=bzf0DqjXFHIW&format=png"> </a>
+    <a> <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png"></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/PawanJoshi42/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PawanJoshi42 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PawanJoshi42&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/PawanJoshi42/github-readme-stats"><img alt="PawanJoshi42 Github Stats" src="https://github-readme-stats.vercel.app/api?username=PawanJoshi42&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/coder-dipesh/github-readme-stats"><img alt="PawanJoshi42 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanJoshi42&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+
+## Connect with me:
+<p align="left">
+    
+<a href = "http://linkedin.com/in/pawanraj-joshi-69648a30b" alt="Linktree"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100081281307346" alt="Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href = "https://www.instagram.com/_ratalapawan/profilecard/?igsh=MTFiaWR4bzAwajgzbw==/" alt="Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+
+</p>
+
+### ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=PawanJoshi42">
+</a>
+<a href="https://github.com/coder-dipesh?tab=followers"><img src="https://img.shields.io/github/followers/PawanJoshi42?label=Followers&style=social" alt="GitHub Badge"></a>
