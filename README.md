@@ -1,6 +1,6 @@
 
 
-<img src="PawanJoshi42/profile.png" width="100%" height="auto" alt="">
+<img src="profile.png" width="100%" height="auto" alt="Description">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pawanraj Joshi.</h1>
 <h3 align="center">I ❤ Coding.</h3>
