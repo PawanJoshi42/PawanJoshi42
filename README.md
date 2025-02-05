@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pawanraj Joshi.</h1>
 <h3 align="center">I ❤ Coding.</h3>
 <h3 align="center">As a tech enthusiast from Kathmandu,Nepal.</h3>
-<h3 align="center">I am deeply interested in Data Science and Web Development.</h3>
+<h3 align="center">I am deeply interested in Data Science.</h3>
 
 
 ## 🙋‍♂️ About Me
